@@ -1,0 +1,2 @@
+"""CamPose posture analysis core."""
+
