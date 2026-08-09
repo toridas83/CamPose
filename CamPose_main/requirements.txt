@@ -1,7 +1,0 @@
-customtkinter>=5.2.0
-mediapipe>=1.0.0
-opencv-python>=4.10.0
-pillow>=10.0.0
-numpy>=1.26.0
-pygrabber==0.2; platform_system=="Windows"
-pystray==0.19.5; platform_system=="Windows"

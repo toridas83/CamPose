@@ -1,2 +1,0 @@
-"""CamPose CustomTkinter user interface."""
-
